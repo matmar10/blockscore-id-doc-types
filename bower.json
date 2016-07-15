@@ -1,0 +1,21 @@
+{
+  "name": "blockscore-id-doc-types",
+  "description": "JSON map of Blockscore supported IDV document types",
+  "main": "document-types.json",
+  "authors": [
+    "Matthew J. Martin <matthew.mar10@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Blockscore",
+    "IDV"
+  ],
+  "homepage": "https://github.com/matmar10/blockscore-id-doc-types",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
