@@ -1,6 +1,6 @@
 {
   "name": "blockscore-id-doc-types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JSON map of Blockscore supported IDV document types",
   "main": "document-types.json",
   "scripts": {
@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/matmar10/blockscore-id-doc-types/issues"
   },
-  "homepage": "https://github.com/matmar10/blockscore-id-doc-types#readme"
+  "homepage": "https://github.com/matmar10/blockscore-id-doc-types#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-release": "^0.14.0",
+    "load-grunt-tasks": "^3.5.0"
+  }
 }
