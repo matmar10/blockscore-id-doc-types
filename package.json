@@ -1,6 +1,6 @@
 {
   "name": "blockscore-id-doc-types",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "JSON map of Blockscore supported IDV document types",
   "main": "document-types.json",
   "scripts": {
