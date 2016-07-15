@@ -1,384 +1,702 @@
 {
   "US": {
     "postalCode": true,
-    "supportedDocuments": [ "ssn", "drivers_license" ]
+    "supportedDocuments": [
+      "ssn",
+      "drivers_license"
+    ]
   },
   "AL": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "AO": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "AR": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "AU": {
     "postalCode": true,
-    "supportedDocuments": [ "passport" ]
+    "supportedDocuments": [
+      "passport"
+    ]
   },
   "AT": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "BS": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "BH": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "BB": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "BE": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "BO": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "BA": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "BR": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "BG": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "CA": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "identity_card", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "identity_card",
+      "drivers_license"
+    ]
   },
   "KY": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "CL": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "CN": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "CO": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "CR": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "HR": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "CZ": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "CI": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "DK": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "DO": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "ER": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "EE": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "FI": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "FR": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "GE": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "DE": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "GR": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "GT": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "GY": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "HN": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "HK": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "HU": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "IS": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "IN": {
     "postalCode": true,
-    "supportedDocuments": [ "passport" ]
+    "supportedDocuments": [
+      "passport"
+    ]
   },
   "ID": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "travel_document" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "travel_document"
+    ]
   },
   "IE": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "IL": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "IT": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "identity_card"
+    ]
   },
   "JP": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "JO": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "KE": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "identity_card"
+    ]
   },
   "KR": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "KW": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "LV": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "LS": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "LI": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "identity_card"
+    ]
   },
   "LT": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "LU": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "identity_card"
+    ]
   },
   "MO": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "travel_document" ]
+    "supportedDocuments": [
+      "passport",
+      "travel_document"
+    ]
   },
   "MK": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "MY": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "MT": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "MX": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license",
-      "tax_id", "voter_id" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license",
+      "tax_id",
+      "voter_id"
+    ]
   },
   "MD": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "NL": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_card", "residence_permit" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_card",
+      "residence_permit"
+    ]
   },
   "AN": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "NZ": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_certificate" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_certificate"
+    ]
   },
   "NI": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "NO": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "OM": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "PK": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "PA": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "PE": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "PH": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "PL": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "PT": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "QA": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "RO": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "RU": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "KN": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "SM": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "identity_card"
+    ]
   },
   "SG": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "SK": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "SI": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "ZA": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "ES": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license",
-      "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "LK": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "SE": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "CH": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "TW": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "TH": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "drivers_license"
+    ]
   },
   "TT": {
     "postalCode": false,
-    "supportedDocuments": [ "passport", "drivers_license", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license",
+      "identity_card"
+    ]
   },
   "TR": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "GB": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
-  },
-  "GB": {
-    "postalCode": true,
-    "supportedDocuments": [ "passport", "drivers_license" ]
+    "supportedDocuments": [
+      "passport",
+      "drivers_license"
+    ]
   },
   "UY": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "VE": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "VN": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   },
   "ZM": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification", "identity_card" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification",
+      "identity_card"
+    ]
   },
   "ZW": {
     "postalCode": true,
-    "supportedDocuments": [ "passport", "personal_identification" ]
+    "supportedDocuments": [
+      "passport",
+      "personal_identification"
+    ]
   }
 }

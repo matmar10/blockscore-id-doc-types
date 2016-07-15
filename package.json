@@ -22,6 +22,7 @@
   "homepage": "https://github.com/matmar10/blockscore-id-doc-types#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
+    "grunt-jsonlint": "^1.1.0",
     "grunt-release": "^0.14.0",
     "load-grunt-tasks": "^3.5.0"
   }
