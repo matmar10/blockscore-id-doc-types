@@ -103,8 +103,7 @@
     "postalCode": true,
     "supportedDocuments": [
       "passport",
-      "identity_card",
-      "drivers_license"
+      "identity_card"
     ]
   },
   "KY": {
